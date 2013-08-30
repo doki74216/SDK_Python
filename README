@@ -1,0 +1,6 @@
+
+PROXY & AWS KEY BINDING
+1.place boto.cfg anywhere
+ 
+2.add Enviroment Variable:
+	BOTO_CONFIG = D:\path\to\boto.cfg
